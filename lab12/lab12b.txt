@@ -1,0 +1,6 @@
+Praca nr1 pracownika 1: Z5
+Praca nr2 pracownika 1: Z4
+Praca nr3 pracownika 1: Z2
+Praca nr1 pracownika 2: Z3
+Praca nr2 pracownika 2: Z1
+Praca nr3 pracownika 2: Z0

@@ -1,0 +1,9 @@
+All possible cutting combinations of [11, 8, 5] of length 30
+produced counts:
+[[2 2 1 1 1 0 0 0 0]
+ [1 0 2 1 0 3 2 1 0]
+ [0 1 0 2 3 1 2 4 6]]
+wasted length:
+[0 3 3 1 4 1 4 2 0]
+optimal cut combinations:
+[6000.0, 0, 0, 0, 0, 6000.0, 0, 0, 3500.0]

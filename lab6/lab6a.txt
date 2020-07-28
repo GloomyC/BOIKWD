@@ -1,0 +1,2 @@
+best option for A: 3
+best option for B: 3

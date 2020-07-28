@@ -1,0 +1,13 @@
+Podzia³y:
+1. tasma 2.1m: 4x0.5m,  0x1.4m,  0.1m odpadku
+2. tasma 2.1m: 1x0.5m,  1x1.4m,  0.2m odpadku
+3. tasma 4.2m: 8x0.5m,  0x1.4m,  0.2m odpadku
+3. tasma 4.2m: 5x0.5m,  1x1.4m,  0.3m odpadku
+4. tasma 4.2m: 2x0.5m,  2x1.4m,  0.4m odpadku
+5. tasma 4.2m: 0x0.5m,  3x1.4m,  0.0m odpadku
+--------------
+wykluczy³em podzia³: tasma 4.2m: 8x0.5m + 0x1.4m + 0.0m odpadku
+jest on rownowazny podzia³owi 1.
+powodowa³ niemo¿liwosc przeksztalcenia rozwiazania dualnego na x
+--------------
+optymalny podzia³: [3000.0, 0, 0, 0, 6000.0]

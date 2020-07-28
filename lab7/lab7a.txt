@@ -1,0 +1,2 @@
+x values: [10.  0. 20.]
+function value: -80.0

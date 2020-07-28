@@ -1,0 +1,1 @@
+optimal product amounts: [100.0, 3960.0000000000014]

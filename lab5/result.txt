@@ -1,0 +1,16 @@
+Is matrix A a proper tourney: True
+Is matrix B a proper tourney: True
+Is matrix C a proper tourney: True
+Is matrix D a proper tourney: False
+Is matrix E a proper tourney: True
+Is matrix F a proper tourney: True
+Does matrix A have ties: False
+Does matrix B have ties: True
+Does matrix C have ties: True
+Does matrix E have ties: True
+Does matrix F have ties: False
+Classic Kendall of matrix A: 1.0
+Classic Kendall of matrix F: 0.0
+Extended Kendall of matrix B: 0.5454545454545454
+Extended Kendall of matrix C: 0.42307692307692313
+Extended Kendall of matrix E: 0.0

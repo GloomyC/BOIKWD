@@ -1,0 +1,4 @@
+jednodniowa: PEKAO SA
+1-miesieczna: Mbank
+3-miesieczna: Millenium
+6-miesieczna: ING

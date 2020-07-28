@@ -1,0 +1,12 @@
+P1 move probabilities
+F1 T2: 0.000000
+F1 T3: 0.571429
+F2 T3: 0.428571
+F2 T4: 0.000000
+P2 move probabilities
+F1 T2: 0.000000
+F1 T3: 0.600000
+F2 T3: 0.400000
+F2 T4: 0.000000
+Min game value: 0.0
+Max game value: 0.0
